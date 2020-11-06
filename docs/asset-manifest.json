@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ab7b501.chunk.css",
-    "main.js": "/static/js/main.250521e3.chunk.js",
-    "main.js.map": "/static/js/main.250521e3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1577db19.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1577db19.js.map",
-    "static/js/2.ef9099cf.chunk.js": "/static/js/2.ef9099cf.chunk.js",
-    "static/js/2.ef9099cf.chunk.js.map": "/static/js/2.ef9099cf.chunk.js.map",
+    "main.css": "/static/css/main.17fb3be6.chunk.css",
+    "main.js": "/static/js/main.86bb0e07.chunk.js",
+    "main.js.map": "/static/js/main.86bb0e07.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b749913.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b749913.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cd286b7f.chunk.js": "/static/js/2.cd286b7f.chunk.js",
+    "static/js/2.cd286b7f.chunk.js.map": "/static/js/2.cd286b7f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4ab7b501.chunk.css.map": "/static/css/main.4ab7b501.chunk.css.map",
-    "static/js/2.ef9099cf.chunk.js.LICENSE.txt": "/static/js/2.ef9099cf.chunk.js.LICENSE.txt"
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.17fb3be6.chunk.css.map": "/static/css/main.17fb3be6.chunk.css.map",
+    "static/js/2.cd286b7f.chunk.js.LICENSE.txt": "/static/js/2.cd286b7f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/SegoeUI.45472284.ttf",
+    "static/media/unidad_residencial_comercial.24282e81.png": "/static/media/unidad_residencial_comercial.24282e81.png",
+    "static/media/unidad_residencial_mixto.8de413f5.png": "/static/media/unidad_residencial_mixto.8de413f5.png",
+    "static/media/unidad_residencial_public.2d30ad8a.png": "/static/media/unidad_residencial_public.2d30ad8a.png",
+    "static/media/unidad_residential.b7845444.png": "/static/media/unidad_residential.b7845444.png",
+    "static/media/unidad_residential_exito.3c80ab10.png": "/static/media/unidad_residential_exito.3c80ab10.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1577db19.js",
-    "static/js/2.ef9099cf.chunk.js",
-    "static/css/main.4ab7b501.chunk.css",
-    "static/js/main.250521e3.chunk.js"
+    "static/js/runtime-main.7b749913.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cd286b7f.chunk.js",
+    "static/css/main.17fb3be6.chunk.css",
+    "static/js/main.86bb0e07.chunk.js"
   ]
 }
